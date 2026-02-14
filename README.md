@@ -2,7 +2,8 @@
 
 This is a **Machine Learning Web Application** built with Python and Streamlit to predict the likelihood of a customer leaving a service (Churn). It uses the Telco Customer dataset to analyze patterns and provide real-time risk assessments.
 
-## 🚀 Live Demo
+## 🚀 Live Demo :- https://telco-churn-analyzer.streamlit.app/
+
 You can interact with the AI model by adjusting customer parameters such as **Tenure**, **Contract Type**, and **Monthly Charges** to see the prediction results instantly.
 
 ## 🛠️ Tech Stack
